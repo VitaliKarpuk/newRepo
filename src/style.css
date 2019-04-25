@@ -5,6 +5,9 @@ body{
     align-items: center;
     height: 100vh;
 }
+#wrap{
+    height: 100%;
+}
 #weather{
     display: block;
     position: absolute;
