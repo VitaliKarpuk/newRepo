@@ -1,5 +1,4 @@
 import "./style.css";
-const button = $('#button');
 const form = $('#form');
 const weather = $('#result'); 
 const myWeather = $('#myWeather');
